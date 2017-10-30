@@ -1,4 +1,3 @@
-<title>band.html</title>
 <h1>Panic! At The Disco</h1>
 <h2>Band Members</h2>
 <h3>Brendon Urie</h3>
